@@ -1,0 +1,3 @@
+frutas = ['manga' , 'maracuja' , 'uva']
+
+print(frutas[0])
